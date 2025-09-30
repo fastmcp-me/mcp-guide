@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/680/mcp-guide)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/680/mcp-guide)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/680/mcp-guide)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/680/mcp-guide)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/680/mcp-guide)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/680/mcp-guide)
+
 # MCP Guide Server (v0.1.5)
 
 A beginner-friendly Model Context Protocol (MCP) server that helps users understand MCP concepts, provides interactive examples, and lists available MCP servers. This server is designed to be a helpful companion for developers working with MCP.
